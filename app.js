@@ -2,7 +2,7 @@
   const C = window.SITE_CONFIG;
   const $ = (id) => document.getElementById(id);
 
-  // 편지지 (힉스필드로 만든 이미지: assets/paper-<id>.webp)
+  // 편지지 (이미지: assets/paper-<id>.webp)
   const PAPERS = [
     { id: "ribbon", name: "리본" },
     { id: "heart", name: "하트" },
